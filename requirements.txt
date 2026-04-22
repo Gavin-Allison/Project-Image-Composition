@@ -1,0 +1,6 @@
+pika
+Pillow
+torch
+opencv-python
+numpy
+transformers
